@@ -32,46 +32,56 @@ body {
     background-image: url('patterns/028.png'); /* Replace 'path/to/100.png' with the actual file path */
     background-repeat: repeat; 
 }
+
+
+
+
+
+
+
+
+
+
 #one {
-    background-image: url('patterns/027.png'); /* Replace 'path/to/100.png' with the actual file path */
+    background-image: url('patterns/027.png'); 
     background-repeat: repeat; 
 }
 #two {
-    background-image: url('patterns/026.png'); /* Replace 'path/to/100.png' with the actual file path */
+    background-image: url('patterns/026.png'); 
     background-repeat: repeat; 
 }#three {
-    background-image: url('patterns/025.png'); /* Replace 'path/to/100.png' with the actual file path */
+    background-image: url('patterns/025.png'); 
     background-repeat: repeat; 
 }#four {
-    background-image: url('patterns/020.png'); /* Replace 'path/to/100.png' with the actual file path */
+    background-image: url('patterns/020.png'); 
     background-repeat: repeat; 
 }#five {
-    background-image: url('patterns/011.png'); /* Replace 'path/to/100.png' with the actual file path */
+    background-image: url('patterns/011.png'); 
     background-repeat: repeat; 
 }#six {
-    background-image: url('patterns/050.png'); /* Replace 'path/to/100.png' with the actual file path */
+    background-image: url('patterns/050.png'); 
     background-repeat: repeat; 
 }
 #seven {
-    background-image: url('patterns/050.png'); /* Replace 'path/to/100.png' with the actual file path */
+    background-image: url('patterns/050.png'); 
     background-repeat: repeat; 
 }#eight {
-    background-image: url('patterns/050.png'); /* Replace 'path/to/100.png' with the actual file path */
+    background-image: url('patterns/050.png'); 
     background-repeat: repeat; 
 }#nine {
-    background-image: url('patterns/050.png'); /* Replace 'path/to/100.png' with the actual file path */
+    background-image: url('patterns/050.png'); 
     background-repeat: repeat; 
 }#ten {
-    background-image: url('patterns/050.png'); /* Replace 'path/to/100.png' with the actual file path */
+    background-image: url('patterns/050.png'); 
     background-repeat: repeat; 
 }#eleven {
-    background-image: url('patterns/050.png'); /* Replace 'path/to/100.png' with the actual file path */
+    background-image: url('patterns/050.png'); 
     background-repeat: repeat; 
 }#twelve {
-    background-image: url('patterns/050.png'); /* Replace 'path/to/100.png' with the actual file path */
+    background-image: url('patterns/050.png'); 
     background-repeat: repeat; 
 }#thirteen {
-    background-image: url('patterns/050.png'); /* Replace 'path/to/100.png' with the actual file path */
+    background-image: url('patterns/050.png'); 
     background-repeat: repeat; 
 }
 h1 {

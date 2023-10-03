@@ -21,4 +21,8 @@ Second launch
 ## Bootstrap Info
   <div class="container mt-1" class="small-box" id="one">
   mt-1 resets the container style to not have the space at the top
-  
+
+
+## Shortcuts  
+- ctrl + d (wrapps in div)
+- ! tab template
