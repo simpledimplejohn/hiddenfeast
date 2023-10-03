@@ -1,8 +1,8 @@
 /* Custom CSS based on your provided styles */
 :root {
     font-family:'Courier New', Courier, monospace;
-    --bs-body-font-family: Arial, Helvetica, sans-serif;
-    font-family: 'VT323', monospace;
+    --bs-body-font-family: 'Courier New', Courier, monospace;
+    
     color: #fa5aba;
 }
 
@@ -91,6 +91,7 @@ h4 {
     font-size: 18px;
     margin-bottom: 20px;
 } 
+
 
 
 
