@@ -71,8 +71,8 @@ body {
     background-image: url('patterns/050.png'); /* Replace 'path/to/100.png' with the actual file path */
     background-repeat: repeat; 
 }#thirteen {
-    background-image: url('patterns/050.png'); /* Replace 'path/to/100.png' with the actual file path */
-    background-repeat: repeat; 
+    background-color: #ffffff;
+    
 }
 h1 {
     color: #fa5aba;
@@ -92,6 +92,22 @@ h4 {
     margin-bottom: 20px;
 } 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* previous styles */
 
 .form-group label {
     color: #000;
