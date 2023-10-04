@@ -1,9 +1,16 @@
-h2 {
+.container {
+    max-width: 600px !important;/*Set your own width %; */
+ }
+
+body  {
     color: #fa5aba;
     font-family: 'VT323', monospace;
     font-weight: bold;
-    
-    
-    font-size: 32px;
-    margin-bottom: 20px;
+
 }
+
+li {
+    font-family: 'Montserrat';
+    color: orange;
+}
+
