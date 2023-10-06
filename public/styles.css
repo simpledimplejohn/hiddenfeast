@@ -1,16 +1,25 @@
 .container {
-    max-width: 600px !important;/*Set your own width %; */
- }
+    max-width: 600px !important; 
+ } 
 
 body  {
-    color: #fa5aba;
+    
     font-family: 'VT323', monospace;
-    font-weight: bold;
+    
 
 }
+/* 
+p {
 
+    font-family: 'Urbanist', sans-serif;  
+} */
+
+/*
 li {
     font-family: 'Montserrat';
     color: orange;
 }
 
+ .nav-item {
+    color: green;
+}  */
